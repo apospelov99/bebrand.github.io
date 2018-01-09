@@ -1,0 +1,24 @@
+<svg width="25" height="42" viewBox="0 0 25 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>scroll</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-672 -564)">
+<g id="scroll">
+<g id="Block">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(672 564)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(672 564)" fill="#FFFFFF"/>
+</g>
+</g>
+<g id="arrow">
+<use xlink:href="#path2_fill" transform="matrix(6.12323e-17 1 -1 6.12323e-17 689 591)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 12.5C 0 5.59644 5.59644 0 12.5 0C 19.4036 0 25 5.59644 25 12.5L 25 29.5C 25 36.4036 19.4036 42 12.5 42C 5.59644 42 0 36.4036 0 29.5L 0 12.5Z"/>
+<path id="path1_stroke_2x" d="M 23 12.5L 23 29.5L 27 29.5L 27 12.5L 23 12.5ZM 2 29.5L 2 12.5L -2 12.5L -2 29.5L 2 29.5ZM 12.5 40C 6.70101 40 2 35.299 2 29.5L -2 29.5C -2 37.5081 4.49187 44 12.5 44L 12.5 40ZM 23 29.5C 23 35.299 18.299 40 12.5 40L 12.5 44C 20.5081 44 27 37.5081 27 29.5L 23 29.5ZM 12.5 2C 18.299 2 23 6.70101 23 12.5L 27 12.5C 27 4.49187 20.5081 -2 12.5 -2L 12.5 2ZM 12.5 -2C 4.49187 -2 -2 4.49187 -2 12.5L 2 12.5C 2 6.70101 6.70101 2 12.5 2L 12.5 -2Z"/>
+<path id="path2_fill" d="M 4.82011 4.94555L 1.04856 8.81528C 0.808646 9.06157 0.419663 9.06157 0.179864 8.81528C -0.0599547 8.56921 -0.0599547 8.17011 0.179864 7.92406L 3.5171 4.49994L 0.179961 1.07593C -0.0598577 0.829759 -0.0598577 0.430697 0.179961 0.184627C 0.41978 -0.0615424 0.808743 -0.0615424 1.04866 0.184627L 4.8202 4.05442C 4.94011 4.17752 5 4.33868 5 4.49992C 5 4.66123 4.94 4.82251 4.82011 4.94555Z"/>
+</defs>
+</svg>

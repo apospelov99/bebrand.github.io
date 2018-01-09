@@ -1,0 +1,16 @@
+<svg width="408" height="408" viewBox="0 0 408 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>right-arrow-forward</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(1146 381)">
+<g id="right-arrow-forward">
+<g id="arrow forward">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -738 27)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 204 0L 168.3 35.7L 311.1 178.5L 0 178.5L 0 229.5L 311.1 229.5L 168.3 372.3L 204 408L 408 204L 204 0Z"/>
+</defs>
+</svg>

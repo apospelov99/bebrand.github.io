@@ -1,0 +1,16 @@
+<svg width="34" height="28" viewBox="0 0 34 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon_glasses</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-287 -717)">
+<g id="icon_glasses">
+<use xlink:href="#path0_fill" fill="url(#pattern0)" transform="translate(287 717)"/>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternUnits="objectBoundingBox" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="matrix(0.0294118 0 0 0.0357143 0 0)"/>
+</pattern>
+<path id="path0_fill" d="M 0 0L 34 0L 34 28L 0 28L 0 0Z"/>
+<image id="image0" width="34" height="28" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAcCAYAAAAEN20fAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QAAAAAAAD5Q7t/AAAACXBIWXMAABwgAAAcIAHND5ueAAACzUlEQVRIx7WWz0tUURTHv3fwx4iCRUVm1MoaIyokjKBNPwyqhdEfEESbFkEE7hWibauioB9gWJC4sCjKInBqYxpCbYIUrE1mBhWlTZb5afHuw+tz5s195pzVzD3f8znnnfvTqIABRlKLpL2S5iQ9MMYMKoEBOyW1SpqVNCTpiTGGJIBq4CEL7TewMgEjDUxHGP1AbZJCOllsY0BFAkYZ8DYP544voA6YtUGvgE3AWqAyybRYViWwDmgAhi1zDtjoE3zKqb41afIYbovDPesT0GfFU0vpQgy3HPhi2c+KiWuBGSvuWa4iHH6XZf8FVru+VER7RFK4IHuXuxCHmVKwrQtW3O1sVf9t5t+RaiBnc9wvJKoEfljR4xJ0I8xzz+bIATXhuDs1LZJCRymmJbSQnZZ0KF+l1519Xl/CjqyyixXgVtSZAiatc6CE3Qjz9dtc34ByaX5q9kha4wizwIS9K0aAa0DTEhI22U6PWNYEkHXy1kra5wZcwM8u+dw3QAVw2ZN5xQ0cizg/Az3ADWAo4usleCIUKsIAdyMxQ5bVY9mujQNGwI6I4xyQjsCbgVFHczqmkDOObhRojvjTNodruwV0OAPtMQnqnQX9kTz3EMFZ9MlqJuN2H9Du5D0vYNBpUez8A21O8P48fveGbfNYR+NWOyjgp/3T6bEIM54LECDjwQsfYLmUpCo7/r1YoKT3kv546CTpq4dmNKypTNKEpDpJRb/AGDMDHJN0sIBks6TD9nejpMkiyIuSyiS9iN64DZ5fm9cInoSh3U4afMAJHgZW/GcxTx3eyaTB3U7wO+AEwSO6BtgFXLVnwlEP1lbgl8O7aRlVwAbgOPASeLToCCB4sGQ9dkKX54e1Mv/kjLMt+YIrCA63qQJBA0Bjgi5vB54XYE0DHa7e5AHUKHiwZBTcjh8kZY0xr5e4ZrYpuGHXS8pJeiOpzxiz4Lj4B4yHvdw/lxCdAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
